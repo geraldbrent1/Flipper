@@ -1,1 +1,9 @@
 *.DS_Store
+*.md
+Applications/Custom (UL, RM, XFW)/ReadMe.md
+Applications/Custom (UL, RM, XFW)/RogueMaster/apps_data/nrf24scan/sniff.txt
+*.fap
+*.fap
+*.png
+*.h
+*.c
